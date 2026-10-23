@@ -27,8 +27,18 @@ Estadística con experiencia en analítica de datos, aplicaciones estadísticas 
 - Learning Excel 2016 — LinkedIn Learning (May 2021)
 - Insights on Data Science — LinkedIn Learning (Abr 2020)
 
-### 📂 Proyectos en R (próximamente)
-Análisis estadístico en R de mis clases e investigaciones: series de tiempo (ARIMA/GARCH), modelos VAR, pronóstico de materias primas, regresión y modelos de espacio de estados, ANOVA y análisis multivariado, e investigación de operaciones.
+### 📂 Proyectos en R
+Análisis estadístico en R de mis clases e investigaciones. Cada repositorio trae scripts, datos de ejemplo y un README en español.
+
+| Proyecto | Qué cubre |
+| --- | --- |
+| [Estadística descriptiva](https://github.com/Aleja-13/estadistica-descriptiva-r) | Importar datos, medidas de tendencia central y dispersión, atípicos y gráficos básicos |
+| [Series de tiempo: ARIMA y GARCH](https://github.com/Aleja-13/series-de-tiempo-arima-garch-r) | Modelos ARIMA y GARCH para PIB, inflación, tipo de cambio y acciones |
+| [VAR, causalidad e impulso-respuesta](https://github.com/Aleja-13/var-causalidad-e-impulso-respuesta-r) | Vectores autorregresivos, causalidad de Granger y funciones impulso-respuesta |
+| [Pronóstico de materias primas](https://github.com/Aleja-13/pronostico-commodities-cafe-aceite-de-coco-r) | Café y aceite de coco con ARIMA y redes neuronales |
+| [Regresión y modelos dinámicos](https://github.com/Aleja-13/regresion-y-modelos-dinamicos-r) | Regresión, errores ARIMA y modelos de espacio de estados |
+| [ANOVA y análisis multivariado](https://github.com/Aleja-13/anova-pruebas-de-hipotesis-y-analisis-multivariado-r) | Pruebas de hipótesis, tablas de contingencia, correspondencias y componentes principales |
+| [Investigación de operaciones](https://github.com/Aleja-13/investigacion-de-operaciones-r) | Programación lineal, cadenas de Markov, colas y eficiencia (DEA) |
 
 ### 📫 Contacto
 - 📧 alejandra@alejadata.pro
