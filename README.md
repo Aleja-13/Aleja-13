@@ -1,4 +1,4 @@
-### 👋 Hola, soy Andmil Alejandra González
+### 👋 Hola, soy Alejandra González
 **Estadística | Analítica de datos | Ciencia de datos**  
 *Statistician | Data Analytics | Data Science*
 
