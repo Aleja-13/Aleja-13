@@ -1,35 +1,36 @@
-### 👋 Hi, I'm Andmil Alejandra González
-**Statistician | Data Analytics | Data Science**
+### 👋 Hola, soy Andmil Alejandra González
+**Estadística | Analítica de datos | Ciencia de datos**
+*Statistician | Data Analytics | Data Science*
 
-Statistician with expertise in data analytics, statistical applications, and data science. Experienced in research, database analysis, consulting services, and dashboard development. Also skilled in digital marketing & sales analytics, including social media data analysis.
+Estadística con experiencia en analítica de datos, aplicaciones estadísticas y ciencia de datos. Trabajo en investigación, análisis de bases de datos, consultoría y desarrollo de dashboards. También en analítica de marketing digital y ventas, incluido el análisis de datos de redes sociales.
 
-> "Turning data into insights, and insights into decisions."
+> "Convertir datos en información, y la información en decisiones."
 
-### 🎯 Main interests
-- Research & statistical applications
-- Database administration & analysis
-- Data visualization & dashboard development
-- Social media data analysis and digital marketing analytics
+### 🎯 Intereses principales
+- Investigación y aplicaciones estadísticas
+- Administración y análisis de bases de datos
+- Visualización de datos y desarrollo de dashboards
+- Análisis de datos de redes sociales y analítica de marketing digital
 
-### 💼 Work experience
-| Role | Organization | Period |
+### 💼 Experiencia laboral
+| Cargo | Organización | Período |
 |---|---|---|
-| Freelancer – Statistical Applications Researcher | Self-employed | Dec 2010 – Present |
-| Professor – Statistics and Probabilities | Emmanuel Rubiano Educational Institute | Aug 2018 – Jan 2019 |
-| National Surveys Supervisor | National Institute of Statistics Venezuela | Sep 2008 – Aug 2012 |
-| Database Analyst | National Institute of Statistics Venezuela | Oct 2010 – Mar 2011 |
+| Freelancer – Investigadora en aplicaciones estadísticas | Independiente | Dic 2010 – Actualidad |
+| Profesora – Estadística y Probabilidades | Instituto Educativo Emmanuel Rubiano | Ago 2018 – Ene 2019 |
+| Supervisora de Encuestas Nacionales | Instituto Nacional de Estadística de Venezuela | Sep 2008 – Ago 2012 |
+| Analista de Bases de Datos | Instituto Nacional de Estadística de Venezuela | Oct 2010 – Mar 2011 |
 
-### 🎓 Education & certifications
-- Statistician — University of Oriente (Nov 2010)
-- Tableau Essential — LinkedIn Learning (Jan 2023)
-- Machine Learning Models with R — Social Data Consulting S.A.C. (Aug 2022)
+### 🎓 Formación y certificaciones
+- Estadística — Universidad de Oriente (Nov 2010)
+- Tableau Essential — LinkedIn Learning (Ene 2023)
+- Machine Learning Models with R — Social Data Consulting S.A.C. (Ago 2022)
 - Learning Excel 2016 — LinkedIn Learning (May 2021)
-- Insights on Data Science — LinkedIn Learning (Apr 2020)
+- Insights on Data Science — LinkedIn Learning (Abr 2020)
 
-### 📂 R projects (coming soon)
-Statistical analysis in R from my classes and research: time series (ARIMA/GARCH), VAR models, commodity forecasting, regression and state-space models, ANOVA and multivariate analysis, and operations research.
+### 📂 Proyectos en R (próximamente)
+Análisis estadístico en R de mis clases e investigaciones: series de tiempo (ARIMA/GARCH), modelos VAR, pronóstico de materias primas, regresión y modelos de espacio de estados, ANOVA y análisis multivariado, e investigación de operaciones.
 
-### 📫 Contact
+### 📫 Contacto
 - 📧 alejandra@alejadata.pro
 - 📱 +57 321-9257308
 - 📍 Bogotá, Colombia
