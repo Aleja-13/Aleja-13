@@ -1,5 +1,5 @@
 ### 👋 Hola, soy Andmil Alejandra González
-**Estadística | Analítica de datos | Ciencia de datos**
+**Estadística | Analítica de datos | Ciencia de datos**  
 *Statistician | Data Analytics | Data Science*
 
 Estadística con experiencia en analítica de datos, aplicaciones estadísticas y ciencia de datos. Trabajo en investigación, análisis de bases de datos, consultoría y desarrollo de dashboards. También en analítica de marketing digital y ventas, incluido el análisis de datos de redes sociales.
